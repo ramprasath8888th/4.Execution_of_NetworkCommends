@@ -26,9 +26,8 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 ## Program
+server.py
 ```
-server.py
-server.py
 import socket
 from pythonping import ping
 
