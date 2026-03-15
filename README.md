@@ -32,6 +32,8 @@ This commands includes
 ![output](output3.png)
 ![output](output4.png)
 ![output](output5.png)
+![output](output6.png)
+![output](output7.png)
 
 ## Result
 Thus Execution of Network commands Performed 
