@@ -25,8 +25,9 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-##program
+##Program
 server.py
+```
 import socket
 from pythonping import ping
 
@@ -49,7 +50,9 @@ while True:
         c.send(f"Ping failed: {e}".encode('utf-8'))
 
 c.close()
+```
 client.py
+```
 import socket
 
 s = socket.socket()
@@ -63,7 +66,7 @@ while True:
     print(s.recv(4096).decode('utf-8'))
 
 s.close()
-
+```
 ## Output
 ![output](output1.png)
 ![output](output2.png)
