@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+![output](output1.png)
 
 ## Result
 Thus Execution of Network commands Performed 
