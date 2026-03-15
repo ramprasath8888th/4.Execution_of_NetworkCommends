@@ -52,8 +52,8 @@ while True:
 
 c.close()
 ```
-client.py
 ```
+client.py
 import socket
 
 s = socket.socket()
